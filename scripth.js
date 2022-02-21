@@ -49,7 +49,7 @@ function tentarLetra(letra) {
 			}
 		}
 		
-		if (letrasErradas >= 10) {
+		if (letrasErradas >= 6) {
 			alert(`Você perdeu! :(\nA palavra era: "${palavra}"`);
 			novaRodada();
 		}
