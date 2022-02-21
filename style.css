@@ -11,6 +11,7 @@
 body{
   max-width: 1680px;
   margin: 0 auto;
+  background-image: radial-gradient( circle farthest-corner at 10% 20%,  rgba(162,102,246,1) 0%, rgba(203,159,249,1) 90% );
 }
 
 body {
